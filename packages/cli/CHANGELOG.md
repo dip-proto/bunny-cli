@@ -1,5 +1,11 @@
 # @bunny.net/cli
 
+## 0.9.2
+
+### Patch Changes
+
+- [#119](https://github.com/BunnyWay/cli/pull/119) [`dfbe849`](https://github.com/BunnyWay/cli/commit/dfbe849881a4446d2092aa9148fe0b552b1b6663) Thanks [@jamie-at-bunny](https://github.com/jamie-at-bunny)! - fix(storage): shared TTY detection, non-interactive guard and cancel handling for zones update, aligned --force semantics, and linked-zone fallback for domains commands
+
 ## 0.9.1
 
 ### Patch Changes

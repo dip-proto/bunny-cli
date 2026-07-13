@@ -1,5 +1,11 @@
 # @bunny.net/sandbox
 
+## 0.3.1
+
+### Patch Changes
+
+- [`ad79781`](https://github.com/BunnyWay/cli/commit/ad797813d850fd39df048f8e1cfa3c0cc3598fcd) Thanks [@jamie-at-bunny](https://github.com/jamie-at-bunny)! - fix(sandbox): Sandbox.get() recovers exposed port mappings from CDN endpoints so domain() works after reconnect
+
 ## 0.3.0
 
 ### Minor Changes
